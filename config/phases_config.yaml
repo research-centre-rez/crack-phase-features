@@ -1,0 +1,19 @@
+colors:
+    # colors should correspond to RGB representation of each label in EDS image
+    # Number of colors should match the number of labels
+    - [21, 21, 116]
+    - [139, 192, 115]
+    - [127, 163, 62]
+    - [35, 115, 79]
+    - [230, 185, 65]
+    - [230, 101, 51]
+    - [0, 0, 0]
+labels: # labels are used in graphs and charts
+    - Quartz
+    - K-Feldspar
+    - Chlorite
+    - Albite
+    - Mica
+    - Accessories
+    - Matrix
+detect: [1, 1, 1, 1, 1, 1, 0] # boolean flag weather to detect the corresponding label

@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+**.ipynb
+.idea/
+.venv/
+
+2026*
+anotace/
+erik/
+experiment*
+labels*
+multi_scans*
+*.csv
+notebooks/beton-hlavac/utils
+*.out

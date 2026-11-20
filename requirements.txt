@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python-headless
+scikit-image
+scipy
+tqdm
+matplotlib
+shapely
+pyyaml
+imagecodecs
