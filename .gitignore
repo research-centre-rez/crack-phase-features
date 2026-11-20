@@ -3,6 +3,7 @@ __pycache__/
 **.ipynb
 .idea/
 .venv/
+workspace/
 
 2026*
 anotace/
